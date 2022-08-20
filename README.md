@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mistrivishal&label=Profile%20views&color=0e75b6&style=flat" alt="mistrivishal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mistrivishal" alt="mistrivishal" /></a> </p>
-
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mistrivishal](https://github.com/mistrivishal)
+- 👨‍💻 All of my projects are available at [Vishal Mistri](https://www.github.com/mistrivishal)
 
-- 📝 I regularly write articles on [https://wordpress.com/posts/vishalmistri.wordpress.com](https://wordpress.com/posts/vishalmistri.wordpress.com)
+- 📝 I regularly write articles on [vishalmistri](https://wordpress.com/posts/vishalmistri.wordpress.com)
 
-- 💬 Ask me about **JAVA | MySQL | JavaSrcipt**
+- 💬 Ask me about **| Java | JPA - Hibernate | JPQL | SQL | JavaScript | DSA | **
 
-- 📫 How to reach me **mistri.vishal95@gmail.com**
+- 📫 How to reach me     <a title="mistri.vishal95@gmail.com" href="mistri.vishal95@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mistri.vishal95@gmail.com />
+    </a>
 
 - ⚡ Fun fact **Final is not final in Java**
 
