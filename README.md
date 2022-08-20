@@ -83,6 +83,6 @@ I am looking for an environment that will allow me to implement the best of my k
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mistrivishal&layout=compact&theme=react-dark" alt="mistrivishal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mistrivishal&layout=compact&theme=onedark" alt="mistrivishal" /></a> </p>
 
 
