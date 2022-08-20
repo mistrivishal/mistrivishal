@@ -43,7 +43,7 @@ I am looking for an environment that will allow me to implement the best of my k
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mistrivishal&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="mistrivishal" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistrivishal&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell,html&border_radius=0&theme=dark" alt="mistrivishal" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistrivishal&layout=compact&exclude_repo=U3C3-moviesbooking,Movie-mini-app,MasaiSchool,First-Web-Page&border_radius=0&theme=dark" alt="mistrivishal" height="139" />
 </p>
 
 ---
