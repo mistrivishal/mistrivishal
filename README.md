@@ -29,11 +29,6 @@ I am looking for an environment that will allow me to implement the best of my k
 
 ---
 
-<!-- ### :heavy_minus_sign: Interested on my top projects? -->
-
-
-<!-- --- -->
-
 ## 📱 ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
 <p align="center">
 <a href="https://www.linkedin.com/in/vishal-mistri/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  /></a>  
@@ -42,20 +37,52 @@ I am looking for an environment that will allow me to implement the best of my k
 <a href="https://www.instagram.com/vishmistariofficial/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"><a>
 </p>
 
+---
+
+## My GitHub Stats
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mistrivishal&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="mistrivishal" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistrivishal&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell,html&border_radius=0&theme=dark" alt="mistrivishal" height="139" />
+</p>
+
+---
+
+<!----------------------------------- Top Repository Section ------------------------------------>
+
+## Top Repositories
+
+
+<p>
+    <a href="https://github.com/mistrivishal/REST_API_COVID_APLLICATON">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mistrivishal&repo=REST_API_COVID_APLLICATON&locale=en&border_radius=0&theme=dark" alt="mistrivishal" height="150" width="400"/>
+    </a>
+    <a href="https://github.com/mistrivishal/OPPO-India-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mistrivishal&repo=OPPO-India-Clone&locale=en&border_radius=0&theme=dark" alt="mistrivishal" height="150" width="400"/>
+    </a>
+    <a href="https://github.com/mistrivishal/Weather-App">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mistrivishal&repo=SHOP.COM-clone&locale=en&border_radius=0&theme=dark" alt="mistrivishal" height="150" width="400"/>
+    </a>
+    <a href="https://github.com/mistrivishal/Translation-App">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mistrivishal&repo=Weather-App&locale=en&border_radius=0&theme=dark" alt="mistrivishal" height="150" width="400"/>
+    </a>
+    
+</p>
+
+---
+
 <!-- <a href=""><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" title="Medium"><a> -->
 
     
-
-  ## :trophy: Recent GitHub Activity
+## :trophy: Recent GitHub Activity
   <br/>
-   <a href="https://github.com/sathish-dhana"><img alt="sathish-dhana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mistrivishal&custom_title=mistrivishal's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/mistrivishal"><img alt="mistrivishal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mistrivishal&custom_title=mistrivishal's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-
-<br/>
+---
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mistrivishal&layout=compact&theme=algolia" alt="mistrivishal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mistrivishal&layout=compact&theme=react-dark" alt="mistrivishal" /></a> </p>
 
 
