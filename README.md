@@ -4,7 +4,7 @@
 ---
 
 ## :sassy_man:  About me
-I am a learner and explorer constantly seeking better quality, efficiency, and a healthy environment. I enjoy problem-solving and learning from the challenges that come along. Thus, the challenges bring the best out of me.
+I am a Aspiring,detail-oriented Java Backend Developer. constantly seeking better quality, efficiency, and a healthy environment. I enjoy problem-solving and learning from the challenges that come along. Thus, the challenges bring the best out of me.
 
 I am looking for an environment that will allow me to implement the best of my knowledge and simultaneously allow me to learn and grow.
 
