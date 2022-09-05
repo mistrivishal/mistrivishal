@@ -57,13 +57,13 @@ I am looking for an environment that will allow me to implement the best of my k
     <a href="https://github.com/mistrivishal/REST_API_COVID_APLLICATON">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mistrivishal&repo=REST_API_COVID_APLLICATON&locale=en&border_radius=0&theme=dark" alt="mistrivishal" height="150" width="400"/>
     </a>
-    <a href="https://github.com/mistrivishal/OPPO-India-Clone">
+    <a href="https://github.com/mistrivishal/SHOP.COM-clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mistrivishal&repo=SHOP.COM-clone&locale=en&border_radius=0&theme=dark" alt="mistrivishal" height="150" width="400"/>
+    </a>
+     <a href="https://github.com/mistrivishal/OPPO-India-Clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mistrivishal&repo=OPPO-India-Clone&locale=en&border_radius=0&theme=dark" alt="mistrivishal" height="150" width="400"/>
     </a>
     <a href="https://github.com/mistrivishal/Weather-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mistrivishal&repo=SHOP.COM-clone&locale=en&border_radius=0&theme=dark" alt="mistrivishal" height="150" width="400"/>
-    </a>
-    <a href="https://github.com/mistrivishal/Translation-App">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mistrivishal&repo=Weather-App&locale=en&border_radius=0&theme=dark" alt="mistrivishal" height="150" width="400"/>
     </a>
     
