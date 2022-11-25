@@ -4,9 +4,9 @@
 ---
 
 ## :sassy_man:  About me
-An Aspiring Java Backend Developer. Constantly seeking better quality, efficiency, and a healthy environment. I enjoy problem-solving and learning from the challenges that come along. Thus, the challenges bring the best out of me.
+As a learner and explorer, I am always striving for better quality, efficiency, and a healthy environment. Taking on challenges and solving them is something that I enjoy. Consequently, challenges motivate me to do my best.
 
-I am looking for an environment that will allow me to implement the best of my knowledge in growth of an organization and simultaneously allow me to learn and grow.
+A few of my specialities include learning new skills quickly, problem-solving, domain-driven design, and Model View Controller (MVC) code organization methods. Currently, Proficient with Java, Spring Framework, MySQL, JavaScript, HTML, CSS, and GitHub. I'm still eager to grab onto any new programming languages, frameworks, or principles that I can integrate into my coding web.
 
 ---
 ## 👨🏻‍💻 Tech Stack
