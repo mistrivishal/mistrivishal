@@ -85,19 +85,3 @@ A few of my specialities include learning new skills quickly, problem-solving, d
 </p>
 
 ---
-
-<!-- <a href=""><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" title="Medium"><a> -->
-
-    
-## :trophy: Recent GitHub Activity
-  <br/>
-   <a href="https://github.com/mistrivishal"><img alt="mistrivishal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mistrivishal&custom_title=mistrivishal's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
----
-
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mistrivishal&layout=compact&theme=onedark" alt="mistrivishal" /></a> </p>
-
-
