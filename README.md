@@ -1,6 +1,6 @@
 <h1 align="center"> Hello World ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=935&height=100&lines=I'm+Vishal+Mistri..!;+Java-Backend+Developer..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=935&height=100&lines=I'm+Vishal+Mistri..!;+Software+Development+Engineer..." alt="Typing SVG" /></a>
 ---
 
 ## :sassy_man:  About me
