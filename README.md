@@ -6,7 +6,7 @@
 ## :sassy_man:  About me
 As a learner and explorer, I am always striving for better quality, efficiency, and a healthy environment. Taking on challenges and solving them is something that I enjoy. Consequently, challenges motivate me to do my best.
 
-A few of my specialities include learning new skills quickly, problem-solving, domain-driven design, and Model View Controller (MVC) code organization methods. Currently, Proficient with Java, Spring Framework, MySQL, JavaScript, NodeJs, ExpressJs, MongoDB, HTML, CSS, and GitHub. I'm still eager to grab onto any new programming languages, frameworks, or principles that I can integrate into my coding web.
+A few of my specialities include learning new skills quickly, problem-solving, domain-driven design, and Model View Controller (MVC) code organization methods. Currently, Proficient with Java, Spring Framework, MySQL, JavaScript, TypeScript, NodeJs, ExpressJs, MongoDB, ReactJs, React Native, HTML, CSS, and GitHub. I'm still eager to grab onto any new programming languages, frameworks, or principles that I can integrate into my coding web.
 
 ---
 ## 👨🏻‍💻 Tech Stack
