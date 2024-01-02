@@ -45,6 +45,7 @@ A few of my specialities include learning new skills quickly, problem-solving, d
     <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />  
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual-Studio-Code" />
+    <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn">
 </p>
 
 ### 🤜 Group
