@@ -70,7 +70,7 @@ A few of my specialities include learning new skills quickly, problem-solving, d
 
 <p>
 <!--     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mistrivishal&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="mistrivishal" height="139" /> -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistrivishal&layout=compact&langs_count=8&exclude_repo=SHOP.COM-clone,OPPO-India-Clone,Portfolio&border_radius=0&theme=dark" alt="mistrivishal" height="139"/>
+<!--     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistrivishal&layout=compact&langs_count=8&exclude_repo=SHOP.COM-clone,OPPO-India-Clone,Portfolio&border_radius=0&theme=dark" alt="mistrivishal" height="139"/> -->
 </p>
 
 ---
