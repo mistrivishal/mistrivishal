@@ -1,16 +1,19 @@
-<h1 align="center"> Hello World ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center" > Hello World..<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=935&height=100&lines=I'm+Vishal+Mistri..!;+Software+Development+Engineer..." alt="Typing SVG" /></a>
----
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lemon&size=40&pause=1000&color=F77D00&center=true&vCenter=true&random=false&width=1000&height=100&lines=I+am+Vishal+Mistri..;Software+Development+Engineer.." alt="Typing SVG" /></a>
 
-## :sassy_man:  About me
+## :sassy_man: About me
+
 As a learner and explorer, I am always striving for better quality, efficiency, and a healthy environment. Taking on challenges and solving them is something that I enjoy. Consequently, challenges motivate me to do my best.
 
 A few of my specialities include learning new skills quickly, problem-solving, domain-driven design, and Model View Controller (MVC) code organization methods. Currently, Proficient with Java, Spring Framework, MySQL, JavaScript, TypeScript, NodeJs, ExpressJs, MongoDB, ReactJs, React Native, HTML, CSS, and GitHub. I'm still eager to grab onto any new programming languages, frameworks, or principles that I can integrate into my coding web.
 
 ---
+
 ## 👨🏻‍💻 Tech Stack
+
 ### ⚡ Languages
+
 <p>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
@@ -19,8 +22,8 @@ A few of my specialities include learning new skills quickly, problem-solving, d
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
 </p>
 
-
 ### 🚀 Libraries & Frameworks
+
 <p>
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" />
     <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="springboot" />
@@ -33,12 +36,14 @@ A few of my specialities include learning new skills quickly, problem-solving, d
 </p>
 
 ### 💻 Databases
+
 <p>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
 </p>
 
 ### 🛠️ Tools
+
 <p>
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
@@ -49,6 +54,7 @@ A few of my specialities include learning new skills quickly, problem-solving, d
 </p>
 
 ### 🤜 Group
+
 <p>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack" />
     <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" alt="google-meet" />
@@ -59,10 +65,11 @@ A few of my specialities include learning new skills quickly, problem-solving, d
 ---
 
 ## 📱 ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
+
 <p align="left">
-<a href="https://www.linkedin.com/in/vishal-mistri/" title="LinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  /></a>  
-<a href="https://twitter.com/VishalMistri7" title="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  alt="Twitter logo" /></a>
-  <a href="mailto:mistri.vishal95@gmail.com" title="Write me an email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Icon" /></a> 
+    <a href="https://www.linkedin.com/in/vishal-mistri/" title="LinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  />
+    <a href="https://twitter.com/VishalMistri7" title="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  alt="Twitter logo" />
+    <a href="mailto:mistri.vishal95@gmail.com" title="Write me an email"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"  alt="Gmail Icon" />
 </p>
 
 ---
@@ -71,16 +78,13 @@ A few of my specialities include learning new skills quickly, problem-solving, d
 ## My GitHub Stats
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mistrivishal&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="mistrivishal" height="139" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistrivishal&layout=compact&langs_count=8&exclude_repo=SHOP.COM-clone,OPPO-India-Clone,Portfolio&border_radius=0&theme=dark" alt="mistrivishal" height="139"/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistrivishal&layout=compact&langs_count=8&exclude_repo=SHOP.COM-clone,OPPO-India-Clone,Portfolio&border_radius=0&theme=dark" alt="mistrivishal" height="139"/>
 </p>
 -->
-
----
 
 <!----------------------------------- Top Repository Section ------------------------------------>
 
 ## Top Repositories
-
 
 <p>
     <a href="https://github.com/mistrivishal/REST_API_COVID_APLLICATON">
@@ -97,5 +101,3 @@ A few of my specialities include learning new skills quickly, problem-solving, d
     </a>
     
 </p>
-
----
