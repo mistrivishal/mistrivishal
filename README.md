@@ -81,7 +81,6 @@ A few of my specialities include learning new skills quickly, problem-solving, d
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistrivishal&layout=compact&langs_count=8&exclude_repo=SHOP.COM-clone,OPPO-India-Clone,Portfolio&border_radius=0&theme=dark" alt="mistrivishal" height="139"/>
 </p>
 -->
-
 <!----------------------------------- Top Repository Section ------------------------------------>
 
 ## Top Repositories
