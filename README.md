@@ -4,9 +4,9 @@
 
 ## :sassy_man: About me
 
-As a learner and explorer, I always strive for better quality, efficiency, and a healthy environment. Taking on challenges and solving them is something that I enjoy. Consequently, challenges motivate me to do my best.
+Hey there! I’m Vishal Mistri — a full-stack developer who enjoys building things that make people’s lives easier. Over the past few years, worked on a wide range of web and mobile projects, from internal tools and automation systems to customer-facing platforms used daily by real teams.
 
-A few of my specialities include learning new skills quickly, problem-solving, domain-driven design, and Model View Controller (MVC) code organization methods. Currently Proficient with Java, Spring Framework, MySQL, JavaScript, TypeScript, NodeJs, ExpressJs, MongoDB, ReactJs, React Native, HTML, CSS, and GitHub. I'm still eager to grab onto any new programming languages, frameworks, or principles that I can integrate into my coding web.
+Most comfortable working across the stack — whether it’s designing REST APIs, wiring up clean frontend interfaces in React, or optimising backend services with Spring Boot or Node.js. I love solving complex problems, learning new things on the fly, and collaborating with others to build reliable and thoughtful software.
 
 ---
 
